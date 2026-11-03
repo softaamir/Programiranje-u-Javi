@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d186ec65-f449-4ac3-b472-ffc45ad0941a" name="Changes" comment="Vjezbe-4" />
+    <list default="true" id="d186ec65-f449-4ac3-b472-ffc45ad0941a" name="Changes" comment="Vjezbe-4">
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/EmployeeData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/src/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/vjezbe_5.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Vjezbe_4" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -258,18 +269,6 @@
     <MESSAGE value="Vjezbe-2" />
     <MESSAGE value="Vjezbe-4" />
     <option name="LAST_COMMIT_MESSAGE" value="Vjezbe-4" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Vjezbe_4/src/Main.java</url>
-          <line>5</line>
-          <placement>INTER_LINE</placement>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
