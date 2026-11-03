@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d186ec65-f449-4ac3-b472-ffc45ad0941a" name="Changes" comment="Vjezbe-4">
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/EmployeeData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/src/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/src/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_4/vjezbe_5.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="d186ec65-f449-4ac3-b472-ffc45ad0941a" name="Changes" comment="Vjezbe-4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,9 +154,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.DogShelterManagementSystem">
     <configuration name="Arena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arena" />
+      <module name="Vjezbe-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogShelterManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogShelterManagementSystem" />
       <module name="Vjezbe-2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,13 +183,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadatak4ProsjekOcjena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadatak4ProsjekOcjena" />
-      <module name="Vjezbe-2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Zadatak5KorisnickoIme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadatak5KorisnickoIme" />
       <module name="Vjezbe-2" />
@@ -203,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DogShelterManagementSystem" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Izazov1" />
         <item itemvalue="Application.Arena" />
         <item itemvalue="Application.Zadatak5KorisnickoIme" />
-        <item itemvalue="Application.Zadatak4ProsjekOcjena" />
       </list>
     </recent_temporary>
   </component>
