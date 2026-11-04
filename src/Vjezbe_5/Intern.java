@@ -1,31 +1,36 @@
 package Sedmica4;
 
-public class Intern extends Employee{
+import java.time.LocalDate;
+
+public class Intern extends Employee {
     private String school;
     String mentorName;
+    private int duration; // trajanje pripravničkog staža u mjesecima
 
-    public Intern(String postion,String name, int id, double salary, String school, String mentorName) {
-        super(postion,name, id, salary);
+    public Intern(String position, String name, int id, double salary, String school, String mentorName, int duration, LocalDate hireDay) {
+        super(position, name, id, salary, hireDay);
         this.school = school;
         this.mentorName = mentorName;
+        this.duration = duration;
     }
 
-    public String getSchool(){
-        return school;
-    }
+    public String getSchool() { return school; }
+    public String getMentorName() { return mentorName; }
+    public int getDuration() { return duration; }
 
-    public String getMentorName(){
-        return mentorName;
+    @Override
+    public void work() {
+        System.out.println(getName() + " is working and being mentored by " + mentorName);
     }
 
     @Override
-    public void work(){
-        System.out.println(getName()+" is working and being mentored by "+mentorName);
+    public String getDetails() {
+        return super.getDetails() + " and attends " + school + ", internship duration: " + duration + " months";
     }
 
+    // school i mentorName su Stringovi (immutable), a duration je primitivni int, pa je kopija sigurna.
     @Override
-    public String getDetails(){
-        return super.getDetails() + " and attends " + school;
+    public Intern clone() {
+        return (Intern) super.clone();
     }
-
 }

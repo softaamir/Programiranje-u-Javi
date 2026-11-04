@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d186ec65-f449-4ac3-b472-ffc45ad0941a" name="Changes" comment="Vjezbe-3">
+    <list default="true" id="d186ec65-f449-4ac3-b472-ffc45ad0941a" name="Changes" comment="Vjezbe-5, bonus sa Vjezbi 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vjezbe_3/Dog_Managment_System.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees.txt" beforeDir="false" afterPath="$PROJECT_DIR$/employees.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeesSorted.txt" beforeDir="false" afterPath="$PROJECT_DIR$/employeesSorted.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_5/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vjezbe_5/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_5/Intern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vjezbe_5/Intern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vjezbe_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_5/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vjezbe_5/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +274,8 @@
     <MESSAGE value="Vjezbe-2" />
     <MESSAGE value="Vjezbe-4" />
     <MESSAGE value="Vjezbe-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vjezbe-3" />
+    <MESSAGE value="Vjezbe-5, bonus sa Vjezbi 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vjezbe-5, bonus sa Vjezbi 4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
