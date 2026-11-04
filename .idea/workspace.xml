@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d186ec65-f449-4ac3-b472-ffc45ad0941a" name="Changes" comment="Vjezbe-4" />
+    <list default="true" id="d186ec65-f449-4ac3-b472-ffc45ad0941a" name="Changes" comment="Vjezbe-3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vjezbe_3/Dog_Managment_System.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,9 +117,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arena.executor": "Run",
+    "Application.DogShelterManagementSystem.executor": "Run",
     "Application.HelloJava.executor": "Run",
     "Application.Izazov1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Sedmica4.Main.executor": "Run",
     "Application.Zadatak1VizitKarta.executor": "Run",
     "Application.Zadatak2KarticaLika.executor": "Run",
     "Application.Zadatak3VrijemeIgranja.executor": "Run",
@@ -154,7 +159,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DogShelterManagementSystem">
+  <component name="RunManager" selected="Application.Sedmica4.Main">
     <configuration name="Arena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arena" />
       <module name="Vjezbe-2" />
@@ -183,20 +188,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadatak5KorisnickoIme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadatak5KorisnickoIme" />
+    <configuration name="Sedmica4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sedmica4.Main" />
       <module name="Vjezbe-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sedmica4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sedmica4.Main" />
         <item itemvalue="Application.DogShelterManagementSystem" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Izazov1" />
         <item itemvalue="Application.Arena" />
-        <item itemvalue="Application.Zadatak5KorisnickoIme" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +268,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Vjezbe-2" />
     <MESSAGE value="Vjezbe-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vjezbe-4" />
+    <MESSAGE value="Vjezbe-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vjezbe-3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
